@@ -1,6 +1,6 @@
-# 💻 Vinay's Developer Journey
+# 💻 My Developer Journey
 
-Hey there! 👋 I'm **Vinay**, a passionate **software developer** currently working at **SRKR Engineering College** and **Bizcraft Advisors**. I love building efficient and scalable software solutions, and I’m always up for a good hackathon! 🚀
+Hey there! 👋 I'm **MANASA**, a passionate **software developer** currently working at **SRKR Engineering College** and **Bizcraft Advisors**. I love building efficient and scalable software solutions, and I’m always up for a good hackathon! 🚀
 
 ### 🌟 About Me:
 - 🧑‍💻 Junior Software Developer at SRKR Engineering College, Bhimavaram
